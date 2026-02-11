@@ -1,0 +1,46 @@
+p{
+    color: red;
+    font-size: 14px;
+}
+.parrafo{
+    color: green;
+    font-size: 16px;
+}
+
+.bg{
+    background-color: yellow;
+}
+
+form .error{
+    border: 2px solid red;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 0 auto;
+    gap: 10px;
+    border: 1px solid black;
+    padding: 50px;
+    margin-bottom: 30px;
+}
+
+form div{
+    display: flex;
+}
+h1{
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+
+#tareas{
+
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    margin: 0 auto;
+    width: 50vw;
+    text-align: center;
+}
